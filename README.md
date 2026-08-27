@@ -26,5 +26,5 @@ The portfolio features several of my technical projects, focusing on:
 
 ## 📫 Let's Connect
 - **GitHub:** [@Draken4-4](https://github.com/Draken4-4)
-- **LinkedIn:** [https://www.linkedin.com/in/yusuf-mustafa-aa7188352?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- **LinkedIn:** [www.linkedin.com/in/yusuf-mustafa-aa7188352]
 - **Email:** [ym198875@gmailcom]
