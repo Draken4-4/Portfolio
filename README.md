@@ -8,7 +8,7 @@ You can view the live version of my portfolio here:
 
 ## 🛠️ Technical Skills
 Here are the main technologies and tools highlighted in my work:
-- **Programming Languages:** Python, C++
+- **Programming Languages:** Python
 - **Computer Vision & AI:** OpenCV, YOLO, PyTorch, TensorFlow, Scikit-learn
 - **Web & Deployment:** HTML, CSS, JavaScript, Streamlit
 
