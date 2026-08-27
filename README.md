@@ -1,34 +1,30 @@
-# Mechatronics & AI Engineer Portfolio 🚀
+# Personal Portfolio 💻
 
-Welcome to my personal portfolio repository! I am a Mechatronics Engineering student with a strong focus on bridging the gap between mechanical systems and intelligent software. 
+Welcome to my personal portfolio repository! This website is dedicated to showcasing my projects and skills in Software Development, Computer Vision, and Artificial Intelligence.
 
-## 🌐 Live Website
-**Check out my live portfolio here:** [https://draken4-4.github.io/Portfolio/](https://draken4-4.github.io/Portfolio/)
+## 🌐 Live Demo
+You can view the live version of my portfolio here: 
+[https://draken4-4.github.io/Portfolio/](https://draken4-4.github.io/Portfolio/)
 
-## 🎯 About This Repository
-This repository contains the front-end source code (`HTML`, `CSS`, `JavaScript`) for my personal website. The portfolio is designed to showcase my projects, technical skills, and engineering background in a clean, responsive layout.
+## 🛠️ Technical Skills
+Here are the main technologies and tools highlighted in my work:
+- **Programming Languages:** Python, C++
+- **Computer Vision & AI:** OpenCV, YOLO, PyTorch, TensorFlow, Scikit-learn
+- **Web & Deployment:** HTML, CSS, JavaScript, Streamlit
 
-## 🛠️ Technical Skills Highlighted
-My portfolio reflects my expertise across multiple disciplines:
+## 🚀 Featured Projects
+The portfolio features several of my technical projects, focusing on:
+- **Computer Vision Applications:** Real-time object tracking and detection systems (e.g., fire/smoke and fall detection) using YOLO and OpenCV.
+- **Deep Learning Models:** CNN architectures for image classification and interactive segmentation using SAM 2.
+- **Interactive Web Apps:** Deploying AI and computer vision models using Streamlit for user-friendly interfaces.
 
-**AI, Computer Vision & Data Science:**
-- **Languages:** Python, C++
-- **Libraries & Frameworks:** OpenCV, YOLO (Detection & Segmentation), PyTorch, TensorFlow, Keras, Scikit-learn, SAM 2
-- **Deployment:** Streamlit
+## 📁 Repository Structure
+- `index.html` - The main structure and content of the website.
+- `style.css` - Custom styling, layout, and responsive design.
+- `script.js` - Interactive front-end functionality.
+- `images/` - Project screenshots and profile assets.
 
-**Mechanical Engineering & CAD:**
-- SolidWorks (3D Modeling, Assemblies, Mass Properties)
-- AutoCAD (2D Drafting, Mechanical Components)
-- MATLAB (Numerical Analysis & Modeling)
-
-## 🚀 Featured Project Areas
-Through the live portfolio, you will find projects related to:
-- **Intelligent Vision Systems:** Real-time applications for Fall Detection, Fire/Smoke Detection, and Object Tracking.
-- **Deep Learning:** CNN architectures (AlexNet, VGG) for image classification.
-- **Mechanical Design:** CAD models, mechanical assemblies, and detailed technical engineering reports.
-
-## ⚙️ How to Run Locally
-If you want to view the code structure on your machine:
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Draken4-4/Portfolio.git](https://github.com/Draken4-4/Portfolio.git)
+## 📫 Let's Connect
+- **GitHub:** [@Draken4-4](https://github.com/Draken4-4)
+- **LinkedIn:** [Insert your LinkedIn link here]
+- **Email:** [Insert your Email here]
