@@ -28,3 +28,6 @@ The portfolio features several of my technical projects, focusing on:
 - **GitHub:** [@Draken4-4](https://github.com/Draken4-4)
 - **LinkedIn:** [www.linkedin.com/in/yusuf-mustafa-aa7188352]
 - **Email:** [ym198875@gmail.com]
+
+## 📝 License
+This project is for personal portfolio purposes. All rights reserved.
